@@ -1,1 +1,1 @@
-# -Proyecto-CORTEX-Equipo
+# Proyecto-CORTEX-Equipo
