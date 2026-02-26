@@ -17,3 +17,4 @@
   
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/631513dc-599f-471f-ba6a-069a9715d05a)
 
+![Proyecto asistente virtual en contra del suicidio](https://github.com/user-attachments/assets/4b121b59-ff70-4614-9065-cd3c4ca3ee06)
