@@ -15,4 +15,4 @@
 - Pensamiento y Razonamiento: 9/10 Necesita evaluar nivel de riesgo, decidir cuándo escalar a ayuda profesional, ofrecer estrategias apropiadas según el contexto, y mantener coherencia en conversaciones complejas y emotivas.
 - Motivación, Cognición y Emoción: 10/10 Es el corazón del bot. Debe demostrar empatía genuina, validar emociones, motivar hacia la vida y la ayuda profesional, y manejar estados emocionales intensos con sensibilidad.
   
-![Grupo procesos cognitivos](https://miro.com/app/live-embed/uXjVG9kN0W0=/?embedMode=view_only_without_ui&moveToViewport=3434%2C-177%2C2354%2C1118&embedId=317331809677)
+https://miro.com/app/board/uXjVG9kN0W0=/?moveToWidget=3458764661403315787&cot=14
