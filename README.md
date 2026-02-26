@@ -7,7 +7,7 @@
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/5ef6df92-d009-49b1-949d-616d0827add6)
 
 #2.Mapa de procesos
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVG9kN0W0=/?embedMode=view_only_without_ui&moveToViewport=3434,-177,2354,1118&embedId=100096761802" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 ##Principales procesos cognitivos
 - Atención y Percepción: 9/10 El bot necesita detectar señales de alerta, palabras clave, cambios en el tono emocional y patrones de riesgo en tiempo real. No puede perderse ningún indicador crítico de crisis.
 - Aprendizaje y Memoria: 8/10 Debe recordar conversaciones previas del usuario, patrones de comportamiento y contexto personal para ofrecer apoyo personalizado. Sin embargo, no necesita aprender de forma autónoma sin supervisión (por seguridad).
