@@ -16,3 +16,7 @@
 - Motivación, Cognición y Emoción: 10/10 Es el corazón del bot. Debe demostrar empatía genuina, validar emociones, motivar hacia la vida y la ayuda profesional, y manejar estados emocionales intensos con sensibilidad.
   
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/631513dc-599f-471f-ba6a-069a9715d05a)
+
+Segunda fase semana 4
+![Grupo procesos cognitivos](https://github.com/user-attachments/assets/7caf10f4-18b9-4716-9469-4f576d670476)
+
