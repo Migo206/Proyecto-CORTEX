@@ -18,5 +18,8 @@
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/631513dc-599f-471f-ba6a-069a9715d05a)
 
 Segunda fase semana 4
+![Grupo procesos cognitivos](https://github.com/user-attachments/assets/d603c52a-ddbd-4600-b9f6-175901232d29)
+
+Segunda fase semana 5
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/7caf10f4-18b9-4716-9469-4f576d670476)
 
