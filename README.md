@@ -1,5 +1,4 @@
 # Proyecto-CORTEX- Asistente Virtual Psicólogo contra el suicidio
-# Mision: 
 # Integrantes
 **Miguel Argote Jaramillo** 
 **Bellairis Giraldo Salazar**
