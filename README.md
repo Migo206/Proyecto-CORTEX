@@ -27,6 +27,7 @@
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/7caf10f4-18b9-4716-9469-4f576d670476)
 
 # Segunda fase semana 6
+##  2. Arquitectura de Atención con las reglas lógicas definidas.
 
 El asistente debe primero detectar señales de riesgo inmediato en el mensaje, como expresiones de querer morir, intención clara, referencias de tiempo o medios, activando un protocolo urgente si aparecen.
 
