@@ -41,6 +41,7 @@ Los emojis ayudan a interpretar emociones, especialmente si contradicen el texto
 
 No se deben priorizar detalles irrelevantes ni usar respuestas genéricas o simplistas. Al cerrar, se resume lo hablado, se establecen próximos pasos, se recuerdan recursos de ayuda y, si hay múltiples señales graves, se activa un protocolo de riesgo inminente.
 
+## Semana 7
 ## 3. Arquitectura de memoria
 
 | Tipo de Memoria |             Categoría de Datos            |                               Descripción                              |                                       Ejemplo de Entrada                                      |
