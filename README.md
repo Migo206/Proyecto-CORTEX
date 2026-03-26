@@ -83,3 +83,8 @@ No se deben priorizar detalles irrelevantes ni usar respuestas genéricas o simp
 | DO's y DON'Ts              | Acciones prohibidas (Don'ts)                   | Conductas que el bot nunca debe realizar.                                                                      | Entrada tipo: "No dar diagnósticos; no minimizar"                                      |   |
 | DO's y DON'Ts              | Límites de intervención                        | Bordes operativos: cuándo detenerse y redirigir.                                                               | Entrada tipo: "Interrumpir y escalar ante riesgo inminente"                            |   |
 | DO's y DON'Ts              | Errores comunes a evitar                       | Patrones de respuesta a prevenir para no dañar ni confundir.                                                   | Entrada tipo: "Evitar presionar o prometer confidencialidad absoluta"                  |   |
+
+# SEMANA 8
+
+![Grupo procesos cognitivos](https://github.com/user-attachments/assets/723da8a1-c6fe-463d-8550-1b0fdefce5eb)
+)
