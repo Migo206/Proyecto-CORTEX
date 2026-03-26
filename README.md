@@ -87,4 +87,3 @@ No se deben priorizar detalles irrelevantes ni usar respuestas genéricas o simp
 # SEMANA 8
 
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/723da8a1-c6fe-463d-8550-1b0fdefce5eb)
-)
