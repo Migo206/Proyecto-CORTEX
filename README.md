@@ -65,5 +65,6 @@ No se deben priorizar detalles irrelevantes ni usar respuestas genéricas o simp
 
 # SEMANA 9
 
-<img width="3514" height="444" alt="image" src="https://github.com/user-attachments/assets/2540a7c1-4b81-4202-84d0-4f123eb4b2de" />
+<img width="1461" height="1068" alt="image" src="https://github.com/user-attachments/assets/6ad2dc14-d919-457f-90a1-7f25203267f8" />
+
 
