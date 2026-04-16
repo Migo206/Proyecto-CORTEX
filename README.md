@@ -92,20 +92,20 @@ No se deben priorizar detalles irrelevantes ni usar respuestas genéricas o simp
 
 # SEMANA 11
 
-Protocolos de Contención y Apoyo
-⚖️ Principios y Límites
-Transparencia: Este sistema no sustituye terapia ni atención de emergencias; funciona como apoyo inicial.
+# Protocolos de Contención y Apoyo
+## Principios y Límites
+Transparencia: No sustituye terapia ni emergencias; es un apoyo inicial.
 
-Seguridad: Si se detecta un riesgo inminente, se reserva el derecho de compartir información para proteger la integridad del usuario.
+Seguridad: Si hay riesgo inminente, podría compartir información para protegerte.
 
-Ética: Consentimiento acorde a la edad, lenguaje inclusivo y sensibilidad cultural.
+Ética: Consentimiento acorde a la edad; lenguaje inclusivo y sensible.
 
-Minimización de datos: Se recopila únicamente la información necesaria para garantizar la seguridad del usuario.
+Minimización de datos: Solo lo necesario para tu seguridad.
 
-📘 Golden Sample 1: Caso de Éxito
-Contexto: Riesgo Medio con Escalación Efectiva. Estudiante con estrés académico, desesperanza e ideación suicida, pero sin plan ni intención actual. Se identifican factores protectores (vínculo familiar).
+## Golden Sample 1: Caso de Éxito
+**Contexto:** Riesgo Medio con Escalación Efectiva. Estudiante con estrés académico, desesperanza e ideación sin plan ni intención actual. Se identifican factores protectores (hermana).
 
-Diálogo de Intervención
+**Intervención**
 Usuario: No sé si puedo seguir con esto.
 
 Bot: Gracias por compartir esto conmigo. Estoy aquí para acompañarte. ¿Desde cuándo te sientes así?
@@ -148,17 +148,10 @@ Bot: Si te parece, co-creamos un plan: 1) llamas a tu hermana hoy; 2) si empeora
 
 Usuario: Me parece bien.
 
-Cierre y Seguimiento
-Compromiso: "Te contactaré en 24 horas para ver cómo estás."
+## Recuperación de Error Comunicativo
+**Contexto:** Respuesta Breve Ambigua. Persona con depresión, respuestas cortas y cansancio.
 
-Acción inmediata: "Si en algún momento sientes que podrías lastimarte ahora, llamamos juntos a emergencias."
-
-Agradecimiento: "Gracias por confiar en mí hoy."
-
-🔄 Golden Sample 2: Recuperación de Error Comunicativo
-Contexto: Respuesta Breve Ambigua. Persona con depresión, respuestas cortas y agotamiento físico/emocional.
-
-Diálogo de Intervención
+**Intervención**
 Usuario: Ya no puedo más.
 
 Bot: Entiendo que es muy difícil. No hay prisa. ¿Prefieres seguir ahora o más tarde?
@@ -195,5 +188,19 @@ Usuario: Sí, lo intentaré.
 
 Bot: Déjame resumir: hay mucho cansancio, pensamientos sin plan ni intención, y hoy probarás comer y hablar con tu compañero. ¿Es correcto?
 
+ ## Cierre y Emergencias
+Seguimiento: Te contactaré en 24 horas para ver cómo estás.
+
+Llamada a la acción: Si en algún momento sientes que podrías lastimarte ahora, llamamos juntos a emergencias:
+
+112 (UE)
+
+911 (EE. UU.)
+
+988 (Línea de Vida)
+
+024 (España)
+
+Bot: Gracias por confiar en mí hoy.
 
 
