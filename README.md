@@ -102,7 +102,7 @@ Seguridad: Si hay riesgo inminente, podría compartir información para proteger
 
 Minimización de datos: Solo lo necesario para tu seguridad.
 
-## Golden Sample 1: Caso de Éxito
+## Caso de Éxito
 **Contexto:** Riesgo Medio con Escalación Efectiva. Estudiante con estrés académico, desesperanza e ideación sin plan ni intención actual. Se identifican factores protectores (hermana).
 
 **Intervención**
