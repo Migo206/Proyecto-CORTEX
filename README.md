@@ -67,6 +67,7 @@ No se deben priorizar detalles irrelevantes ni usar respuestas genéricas o simp
 
 <img width="1461" height="1068" alt="image" src="https://github.com/user-attachments/assets/6ad2dc14-d919-457f-90a1-7f25203267f8" />
 
+## 4. Protocolo de Comunicación
 
 # SEMANA 10
 
