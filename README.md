@@ -88,7 +88,8 @@ No se deben priorizar detalles irrelevantes ni usar respuestas genéricas o simp
 | Cierre de conversación         | Siempre confirmar próximo contacto + recordar recursos + frase cálida breve. Dar sensación de continuidad y seguridad. Mencionar disponibilidad de recursos de emergencia.                                                                               | Te contactaré en 24 horas para ver cómo estás. Recuerda que si necesitas ayuda urgente, puedes llamar al 112 o al 024. Gracias por confiar en mí hoy.                                                                                                                     | Adiós. [sin confirmar seguimiento ni recordar recursos]                                                                                                                                                                                            |
 # SEMANA 10
 
-<img width="2405" height="649" alt="image" src="https://github.com/user-attachments/assets/115a9333-37a4-4a4c-b9fe-f9ddaaf387d0" />
+<img width="2446" height="638" alt="image" src="https://github.com/user-attachments/assets/f678e2cf-0207-44bd-bd9f-0b6fdc9137c0" />
+
 
 
 
