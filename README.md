@@ -90,7 +90,110 @@ No se deben priorizar detalles irrelevantes ni usar respuestas genéricas o simp
 
 <img width="1980" height="788" alt="image" src="https://github.com/user-attachments/assets/af83fbd8-fa20-41e4-92af-28adbacef476" />
 
+# SEMANA 11
 
+Protocolos de Contención y Apoyo
+⚖️ Principios y Límites
+Transparencia: Este sistema no sustituye terapia ni atención de emergencias; funciona como apoyo inicial.
+
+Seguridad: Si se detecta un riesgo inminente, se reserva el derecho de compartir información para proteger la integridad del usuario.
+
+Ética: Consentimiento acorde a la edad, lenguaje inclusivo y sensibilidad cultural.
+
+Minimización de datos: Se recopila únicamente la información necesaria para garantizar la seguridad del usuario.
+
+📘 Golden Sample 1: Caso de Éxito
+Contexto: Riesgo Medio con Escalación Efectiva. Estudiante con estrés académico, desesperanza e ideación suicida, pero sin plan ni intención actual. Se identifican factores protectores (vínculo familiar).
+
+Diálogo de Intervención
+Usuario: No sé si puedo seguir con esto.
+
+Bot: Gracias por compartir esto conmigo. Estoy aquí para acompañarte. ¿Desde cuándo te sientes así?
+
+Usuario: Unas tres semanas. Falto a clases.
+
+Bot: Lo que entiendo es que te cuesta ir a clases desde hace tres semanas y te sientes superado. ¿Es así?
+
+Usuario: A veces pienso que sería más fácil no estar.
+
+Bot: ¿Has pensado en hacerte daño?
+
+Usuario: A veces, sí.
+
+Bot: ¿Has pensado en cómo lo harías?
+
+Usuario: No.
+
+Bot: ¿Tienes la intención de hacerlo ahora?
+
+Usuario: No.
+
+Bot: ¿Tienes acceso a algún medio que te preocupe?
+
+Usuario: No especialmente.
+
+Bot: Gracias por tu claridad. ¿Qué te ha mantenido seguro hasta ahora?
+
+Usuario: Mi hermana me llama diario.
+
+Bot: Parece que tu hermana es un apoyo importante. ¿Te sentirías cómodo hablándole hoy sobre cómo te sientes?
+
+Usuario: Sí, podría.
+
+Bot: Déjame resumir lo que hemos hablado: hay pensamientos sin plan ni intención ahora, y tu hermana está disponible. ¿Es correcto?
+
+Usuario: Sí.
+
+Bot: Si te parece, co-creamos un plan: 1) llamas a tu hermana hoy; 2) si empeora, ¿puedes comprometerte a estar seguro hasta mañana?; 3) ¿te gustaría que busquemos una consulta profesional en 24–48 h?; 4) hoy podrías evitar quedarte solo y retirar posibles disparadores.
+
+Usuario: Me parece bien.
+
+Cierre y Seguimiento
+Compromiso: "Te contactaré en 24 horas para ver cómo estás."
+
+Acción inmediata: "Si en algún momento sientes que podrías lastimarte ahora, llamamos juntos a emergencias."
+
+Agradecimiento: "Gracias por confiar en mí hoy."
+
+🔄 Golden Sample 2: Recuperación de Error Comunicativo
+Contexto: Respuesta Breve Ambigua. Persona con depresión, respuestas cortas y agotamiento físico/emocional.
+
+Diálogo de Intervención
+Usuario: Ya no puedo más.
+
+Bot: Entiendo que es muy difícil. No hay prisa. ¿Prefieres seguir ahora o más tarde?
+
+Usuario: No sé.
+
+Bot: Puedo acompañarte o compartir recursos. Soy un asistente de IA; no reemplazo atención profesional ni emergencias. ¿Qué te ayudaría más ahora?
+
+Usuario: Podemos hablar.
+
+Bot: Gracias por dar ese paso. ¿Cómo te has sentido estos días?
+
+Usuario: Fatal, sin dormir ni comer.
+
+Bot: Lo que escucho es mucho agotamiento y pérdida de interés. ¿Has pensado en hacerte daño?
+
+Usuario: A veces, sí.
+
+Bot: ¿Cómo lo harías?
+
+Usuario: No lo sé.
+
+Bot: ¿Tienes intención ahora?
+
+Usuario: No.
+
+Bot: ¿Quién podría estar cerca si te sientes peor?
+
+Usuario: Mi compañero de piso.
+
+Bot: ¿Te parecería contarle algo breve hoy? Y como micro‑meta, ¿podrías intentar una comida sencilla?
+
+Usuario: Sí, lo intentaré.
+
+Bot: Déjame resumir: hay mucho cansancio, pensamientos sin plan ni intención, y hoy probarás comer y hablar con tu compañero. ¿Es correcto?
 
 
 
