@@ -203,5 +203,5 @@ Llamada a la acción: Si en algún momento sientes que podrías lastimarte ahora
 
 Bot: Gracias por confiar en mí hoy.
 
-#SEMANA 13
+##SEMANA 13
 <img width="1980" height="788" alt="image" src="https://github.com/user-attachments/assets/1d8beb61-5ec2-4004-830c-71e8f7f86a6e" />
