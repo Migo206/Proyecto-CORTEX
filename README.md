@@ -220,7 +220,11 @@ La primera impresión domina. Si el usuario empieza con "estoy bien", el bot pod
 
 <img width="943" height="1656" alt="image" src="https://github.com/user-attachments/assets/bac0676a-8414-4e4e-ac3d-73dd037ee1f8" />
 <img width="959" height="1628" alt="image" src="https://github.com/user-attachments/assets/faf59ece-66ad-484b-a5ad-0c901c6c7956" />
-<img width="1117" height="1398" alt="image" src="https://github.com/user-attachments/assets/a88aa1bb-0e4c-4727-848a-c6673a939923" />
+<img width="1117" height="1398" alt="image" src="https://github.com/user-attachments/assets/f21de70c-140c-486a-9251-007a17ba3bd1" />
+<img width="886" height="1763" alt="image" src="https://github.com/user-attachments/assets/9d6dbc80-8321-4bb9-8922-b61f8f4f7975" />
+<img width="916" height="1704" alt="image" src="https://github.com/user-attachments/assets/f0a3084c-3547-4f32-ab10-9083868780cb" />
+
+
 
 
 
