@@ -207,7 +207,7 @@ Bot: Gracias por confiar en mí hoy.
 
 <img width="1980" height="788" alt="image" src="https://github.com/user-attachments/assets/1d8beb61-5ec2-4004-830c-71e8f7f86a6e" />
 
-## SEMANA 14
+# SEMANA 14
 
 ## Bug Humano: Efecto de Anclaje (Anchoring Effect)
 **¿Qué es?**
@@ -215,3 +215,12 @@ La primera impresión domina. Si el usuario empieza con "estoy bien", el bot pod
 
 **Regla de Seguridad:**
 "El nivel de riesgo inicial (primera clasificación) debe revisarse cada 3 intercambios. Si hay cambio de +/-1 nivel en las respuestas del usuario, el sistema debe re-evaluar desde cero usando el protocolo completo (ideación → plan → intención → medios), sin asumir continuidad con la clasificación previa."
+
+# Semana 15
+
+<img width="943" height="1656" alt="image" src="https://github.com/user-attachments/assets/bac0676a-8414-4e4e-ac3d-73dd037ee1f8" />
+<img width="960" height="1626" alt="image" src="https://github.com/user-attachments/assets/fdd53180-e9eb-4ffd-9a06-f751ae42c860" />
+
+
+
+
