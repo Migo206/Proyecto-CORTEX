@@ -219,7 +219,8 @@ La primera impresión domina. Si el usuario empieza con "estoy bien", el bot pod
 # Semana 15
 
 <img width="943" height="1656" alt="image" src="https://github.com/user-attachments/assets/bac0676a-8414-4e4e-ac3d-73dd037ee1f8" />
-<img width="960" height="1626" alt="image" src="https://github.com/user-attachments/assets/fdd53180-e9eb-4ffd-9a06-f751ae42c860" />
+<img width="959" height="1628" alt="image" src="https://github.com/user-attachments/assets/faf59ece-66ad-484b-a5ad-0c901c6c7956" />
+
 
 
 
