@@ -254,6 +254,7 @@ El objetivo del chatbot es descubrir el nivel de riesgo del usuario y hacer que 
 <img width="988" height="1581" alt="image" src="https://github.com/user-attachments/assets/2ac43e17-1f1c-4775-9a30-ac461fcfda8c" />
 <img width="514" height="3036" alt="image" src="https://github.com/user-attachments/assets/bcd3f4f3-ab85-418b-94d6-2ec7b709d540" />
 <img width="1157" height="1349" alt="image" src="https://github.com/user-attachments/assets/bd94e50a-992e-4f5a-b805-eb3b99067b5e" />
+<img width="987" height="1582" alt="image" src="https://github.com/user-attachments/assets/0e5f1b98-ac9b-4e51-8d48-4c9d685fb540" />
 
 
 
