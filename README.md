@@ -231,15 +231,8 @@ La primera impresión domina. Si el usuario empieza con "estoy bien", el bot pod
 <img width="1031" height="1514" alt="image" src="https://github.com/user-attachments/assets/8bfd3d07-2b36-4ae2-8b48-1609d33db49c" />
 <img width="1129" height="1383" alt="image" src="https://github.com/user-attachments/assets/abdd0be8-40bf-4d89-abca-460308a25cf0" />
 <img width="888" height="1758" alt="image" src="https://github.com/user-attachments/assets/48852b99-9832-4a31-a529-3b3d7f6ef739" />
-<img width="888" height="1758" alt="image" src="https://github.com/user-attachments/assets/172244bf-95eb-4689-a816-c95b08c24c06" />
 <img width="1137" height="1373" alt="image" src="https://github.com/user-attachments/assets/aaa1bffb-a716-445a-ad6e-b1d0538ae3ad" />
 
-
-<img width="943" height="1656" alt="image" src="https://github.com/user-attachments/assets/bac0676a-8414-4e4e-ac3d-73dd037ee1f8" />
-<img width="959" height="1628" alt="image" src="https://github.com/user-attachments/assets/faf59ece-66ad-484b-a5ad-0c901c6c7956" />
-<img width="1117" height="1398" alt="image" src="https://github.com/user-attachments/assets/f21de70c-140c-486a-9251-007a17ba3bd1" />
-<img width="886" height="1763" alt="image" src="https://github.com/user-attachments/assets/9d6dbc80-8321-4bb9-8922-b61f8f4f7975" />
-<img width="916" height="1704" alt="image" src="https://github.com/user-attachments/assets/f0a3084c-3547-4f32-ab10-9083868780cb" />
 
 # FASE 6
 
