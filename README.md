@@ -218,6 +218,7 @@ Bot: Gracias por confiar en mí hoy.
 <img width="1980" height="788" alt="image" src="https://github.com/user-attachments/assets/1d8beb61-5ec2-4004-830c-71e8f7f86a6e" />
 <img width="1231" height="1268" alt="image" src="https://github.com/user-attachments/assets/5b870df4-a989-4197-b513-4ebf2203c222" />
   <img width="1023" height="1527" alt="image" src="https://github.com/user-attachments/assets/6ab30313-4691-4591-be3c-152b419df559" />
+<img width="957" height="1632" alt="image" src="https://github.com/user-attachments/assets/3772ae6d-dcb0-46d0-bbac-034ec0863b1f" />
 
 
 ## SEMANA 14
