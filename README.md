@@ -216,6 +216,7 @@ Bot: Gracias por confiar en mí hoy.
 ## SEMANA 13
 
 <img width="1980" height="788" alt="image" src="https://github.com/user-attachments/assets/1d8beb61-5ec2-4004-830c-71e8f7f86a6e" />
+<img width="1231" height="1268" alt="image" src="https://github.com/user-attachments/assets/92846ae6-739e-4e12-a40b-ccfdef502690" />
 
 ## SEMANA 14
 
