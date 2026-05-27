@@ -249,6 +249,9 @@ Si se pusiera por encima la optimización eistiria riesgo de escalar demasiado r
 
 El objetivo del chatbot es descubrir el nivel de riesgo del usuario y hacer que este acepte un plan de acción, usando la empatía solo como la herramienta necesaria para que el usuario no abandone la conversación antes de tiempo.
 
+## SEMANA 17
+
+<img width="988" height="1581" alt="image" src="https://github.com/user-attachments/assets/571628c1-46b7-4754-81dd-500927d58398" />
 
 
 
