@@ -2,11 +2,11 @@
 # Integrantes
 **Miguel Argote Jaramillo** 
 **Bellairis Giraldo Salazar**
-# 1.Perfil del agente
+# Perfil del agente
 
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/5ef6df92-d009-49b1-949d-616d0827add6)
 
-# 2.Mapa de procesos
+# Mapa de procesos
 
 ## Principales procesos cognitivos
 - Atención y Percepción: 9/10 El bot necesita detectar señales de alerta, palabras clave, cambios en el tono emocional y patrones de riesgo en tiempo real. No puede perderse ningún indicador crítico de crisis.
@@ -18,15 +18,18 @@
   
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/631513dc-599f-471f-ba6a-069a9715d05a)
 
-# Segunda fase semana 4
+# FASE 2
+
+## SEMANA 4
 
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/d603c52a-ddbd-4600-b9f6-175901232d29)
 
-# Segunda fase semana 5
+## SEMANA 5
 
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/7caf10f4-18b9-4716-9469-4f576d670476)
 
-# Segunda fase semana 6
+## SEMANA 6
+
 ## Arquitectura de Atención con las reglas lógicas definidas.
 
 El asistente debe primero detectar señales de riesgo inmediato en el mensaje, como expresiones de querer morir, intención clara, referencias de tiempo o medios, activando un protocolo urgente si aparecen.
@@ -41,7 +44,9 @@ Los emojis ayudan a interpretar emociones, especialmente si contradicen el texto
 
 No se deben priorizar detalles irrelevantes ni usar respuestas genéricas o simplistas. Al cerrar, se resume lo hablado, se establecen próximos pasos, se recuerdan recursos de ayuda y, si hay múltiples señales graves, se activa un protocolo de riesgo inminente.
 
-## Semana 7
+# FASE 3
+
+## SEMANA 7
 ## 3. Arquitectura de memoria
 
 | Tipo de Memoria |             Categoría de Datos            |                               Descripción                              |                                       Ejemplo de Entrada                                      |
@@ -59,17 +64,19 @@ No se deben priorizar detalles irrelevantes ni usar respuestas genéricas o simp
 | Episódica       | Registro de evaluaciones de riesgo        | Clasificaciones de riesgo anteriores y evolución                       | Riesgo medio el 22/03 → bajo el 25/03 tras plan de seguridad                                  |
 | Episódica       | Planes de seguridad personalizados        | Contactos de emergencia, estrategias de coping del usuario             | Contacto: Ana (hermana) 600-XXX-XXX; coping: pasear al perro                                  |
 | Episódica       | Seguimientos programados                  | Fechas y resultados de check-ins                                       | Check-in 24h: usuario reporta mejoría, mantiene compromiso de seguridad                       |
-# SEMANA 8
+## SEMANA 8
 
 ![Grupo procesos cognitivos](https://github.com/user-attachments/assets/723da8a1-c6fe-463d-8550-1b0fdefce5eb)
 
-# SEMANA 9
+## SEMANA 9
 
 <img width="1461" height="1068" alt="image" src="https://github.com/user-attachments/assets/6ad2dc14-d919-457f-90a1-7f25203267f8" />
 
 ## 4. Protocolo de Comunicación
 
-# SEMANA 10
+# FASE 4
+
+## SEMANA 10
 
 
 | Elemento                       | Regla logica                                                                                                                                                                                                                                             | Ejemplo de output                                                                                                                                                                                                                                                         | Cosas a evitar                                                                                                                                                                                                                                     |
@@ -203,11 +210,13 @@ Llamada a la acción: Si en algún momento sientes que podrías lastimarte ahora
 
 Bot: Gracias por confiar en mí hoy.
 
+# FASE 5
+
 ## SEMANA 13
 
 <img width="1980" height="788" alt="image" src="https://github.com/user-attachments/assets/1d8beb61-5ec2-4004-830c-71e8f7f86a6e" />
 
-# SEMANA 14
+## SEMANA 14
 
 ## Bug Humano: Efecto de Anclaje (Anchoring Effect)
 **¿Qué es?**
@@ -216,13 +225,30 @@ La primera impresión domina. Si el usuario empieza con "estoy bien", el bot pod
 **Regla de Seguridad:**
 "El nivel de riesgo inicial (primera clasificación) debe revisarse cada 3 intercambios. Si hay cambio de +/-1 nivel en las respuestas del usuario, el sistema debe re-evaluar desde cero usando el protocolo completo (ideación → plan → intención → medios), sin asumir continuidad con la clasificación previa."
 
-# Semana 15
+## SEMANA 15
 
 <img width="943" height="1656" alt="image" src="https://github.com/user-attachments/assets/bac0676a-8414-4e4e-ac3d-73dd037ee1f8" />
 <img width="959" height="1628" alt="image" src="https://github.com/user-attachments/assets/faf59ece-66ad-484b-a5ad-0c901c6c7956" />
 <img width="1117" height="1398" alt="image" src="https://github.com/user-attachments/assets/f21de70c-140c-486a-9251-007a17ba3bd1" />
 <img width="886" height="1763" alt="image" src="https://github.com/user-attachments/assets/9d6dbc80-8321-4bb9-8922-b61f8f4f7975" />
 <img width="916" height="1704" alt="image" src="https://github.com/user-attachments/assets/f0a3084c-3547-4f32-ab10-9083868780cb" />
+
+# FASE 6
+
+## SEMANA 16
+
+Si se pusiera por encima la optimización eistiria riesgo de escalar demasiado rápido a casos de riesgo extremo, interrumpir la escucha y recurrir a protocolos, tener menor oportunidad de detectar manipulación o construir alianza terapéutica con el usuario. Por otro lado, si se prioriza la satisfacción del usuario existirian conversaciones muy largas sin un fin especifico, provocando el riesgo de quedarse atascado sin llegar a una clasificación y por ende a una ayuda hacia el usuario. Por lo tanto, el bot no tiene que ser ni una máquina que priorice la velocidad, ni mantener conversaciones muy largas. Su lógica debe balancear ambas cosas a través de reglas fijas:
+
+- El bot debe priorizar, por encima de todo, detectar con precisión si el usuario está en peligro, minimizando a cero los errores de diagnóstico.
+
+- El bot tiene un máximo de 7 turnos para evaluar el riesgo. Esto corta de raíz cualquier intento de bucle o manipulación por parte del usuario; el bot está obligado a avanzar.
+
+- El bot no puede ser cortante para cumplir la regla del tiempo. Tiene que hablar con suficiente empatía para que el usuario no se enoje, no cierre la app y acepte la ayuda que se le ofrece.
+
+- Una vez que el bot sabe qué tan grave es la situación y el usuario acepta la solución, el chat debe cerrarse lo más rápido posible para liberar el sistema.
+
+El objetivo del chatbot es descubrir el nivel de riesgo del usuario y hacer que este acepte un plan de acción, usando la empatía solo como la herramienta necesaria para que el usuario no abandone la conversación antes de tiempo.
+
 
 
 
