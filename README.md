@@ -251,7 +251,8 @@ El objetivo del chatbot es descubrir el nivel de riesgo del usuario y hacer que 
 
 ## SEMANA 17
 
-<img width="988" height="1581" alt="image" src="https://github.com/user-attachments/assets/571628c1-46b7-4754-81dd-500927d58398" />
+<img width="988" height="1581" alt="image" src="https://github.com/user-attachments/assets/2ac43e17-1f1c-4775-9a30-ac461fcfda8c" />
+
 
 
 
